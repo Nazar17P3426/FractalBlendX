@@ -1,2 +1,2 @@
-# FractalBlendX-my-new-malware-fixed-repository-
-my new malware credits to: the mayn mike, nikitpad, pankoza and stomachbughead.
+# FractalBlendX
+C++ short GDI trojan by Comium92
